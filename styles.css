@@ -1,0 +1,63 @@
+h1 {
+    padding-top: 3rem;
+    font-family: "Piedra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Piedra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: "Piedra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ol {
+    font-family: "Piedra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title-and-image {
+    display: flex;
+    flex-direction: column;
+    margin: 0% 30% 0 30%;
+}
+.image {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+}
+
+
+body{
+    background-color:blanchedalmond;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    margin: 0% 30% 0 30%;
+    flex-direction: column;
+}
+
+.songs-and-tracks {
+    display: flex;
+    justify-content: center;
+    margin: 0% 30% 0 30%;
+}
+
+.songs-and-tracks div{
+    flex: 1
+}
+
